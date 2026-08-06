@@ -1,0 +1,36 @@
+CSS
+
+Body { 
+    background-color: lightpink;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 40px;
+}
+
+button {
+    background-color: lavenderblush;
+    color: black;
+    border: black;
+    padding: 12px 20px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: black;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
