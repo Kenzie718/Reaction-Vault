@@ -1,2 +1,0 @@
-# Reaction-Vault
-JUST A BUNCH OF GIFS AND MEMES
